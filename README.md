@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sami-0085/sami-0085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
